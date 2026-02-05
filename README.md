@@ -2,7 +2,6 @@
 
 **`Banco de Dados`**
 
-Me chamo Gabrielly Santos, tenho 18 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau
 
 ###  Linguagens e Tecnologias
 
