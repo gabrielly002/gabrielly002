@@ -1,7 +1,7 @@
 ## 📱 Gabrielly Santos
 
-📊 Área de Dados em formação
-🐍 Desenvolvimento com Python
+📊 Área de Dados em formação <br>
+🐍 Desenvolvimento com Python <br>
 ⚙ Soluções e análises envolvendo dados
 
 
